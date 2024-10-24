@@ -63,3 +63,6 @@ The LSTM model is designed with the following layers:
 ```bash
 git clone https://github.com/your-username/sentiment-analysis-lstm.git
 
+python lstm_sa.py
+
+
