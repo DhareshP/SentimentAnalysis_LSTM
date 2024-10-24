@@ -30,7 +30,7 @@ Before running this project, ensure you have the following libraries installed:
 
 You can install these dependencies using pip:
 
-```bash
+``bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 This project implements a sentiment analysis model using Long Short-Term Memory (LSTM) networks on the IMDB movie review dataset. The model is trained to classify reviews as either **positive** or **negative**. Various visualizations, such as a **Confusion Matrix Heatmap**, **ROC Curve**, and **Training/Validation Accuracy and Loss** plots, are included to evaluate the model's performance.
