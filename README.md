@@ -1,7 +1,5 @@
 # SentimentAnalysis_LSTM
 
-# Sentiment Analysis using LSTM
-
 This project implements a sentiment analysis model using Long Short-Term Memory (LSTM) networks on the IMDB movie review dataset. The model is trained to classify reviews as either **positive** or **negative**. Additionally, the project includes various visualizations, such as a **Confusion Matrix Heatmap**, **ROC Curve**, and **Training/Validation Accuracy and Loss** plots, to evaluate the model's performance.
 
 ## Project Overview
