@@ -45,7 +45,7 @@ The dataset used in this project is an IMDB movie reviews dataset. Make sure to 
 ## Project Structure
 
 - **`imdb.csv`**: The dataset file containing movie reviews and sentiment labels.
-- **`sentiment_analysis.py`**: The main Python script to train the model and generate visualizations.
+- **`lstm_sa.py`**: The main Python script to train the model and generate visualizations.
 - **`README.md`**: This file, containing all the relevant information about the project.
 
 ## Model Architecture
